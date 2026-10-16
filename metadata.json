@@ -1,0 +1,10 @@
+{
+  "name": "Morse to Speech Translator",
+  "description": "Live Morse code decoder via microphone or tap keyer with real-time audio playback, visual oscilloscope, and AI translation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
